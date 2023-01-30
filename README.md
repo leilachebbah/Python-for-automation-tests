@@ -1,5 +1,4 @@
 # Python-for-automation-tests
-Welcome to the automatisation-des-tests avec phyton wiki!
 
 Automation of tests is an important aspect of software development, as it allows developers to quickly and easily verify that their code is working as intended. One popular language for automation testing is Python, which offers a wide range of libraries and tools for automating various types of tests, including unit tests, integration tests, and end-to-end tests. With Python, developers can write test scripts that are easy to read, understand, and maintain, making it a great choice for automating tests throughout the software development process. Whether you are new to automation testing or are looking to expand your skills in this area, Python is a powerful tool that can help you create robust, reliable test scripts that can save you time and improve the overall quality of your code.
 
