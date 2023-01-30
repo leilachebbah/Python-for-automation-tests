@@ -2,7 +2,7 @@ GitHub is a platform for version control and collaboration. To use GitHub, you c
 
 Create an account: sign up for a GitHub account and verify your email address.
 
-Install Git: download and install the Git command line interface on your computer.  https://git-scm.com/
+Install Git: download and install the [Git]([https://realpython.com/) command line interface on your computer. 
 
 Create a repository: create a place to store and manage your project files.
 
